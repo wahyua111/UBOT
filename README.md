@@ -60,7 +60,7 @@
 ## Credit
 TERIMAKASIH UNTUK
 
-*.  [Mondar](https://tmme/mondarajedah) - ⛩️MON-Userbot⛩️
+*   [Mondar](https://tmme/mondarajedah) - ⛩️MON-Userbot⛩️
 *   [VICKY](https://t.me/vckyouubitch) - ⚡Geez-Userbot⚡
 *   [KOALA](https://t.me/manusiarakitann) - KAMPANG BOT
 *   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
